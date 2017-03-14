@@ -3,7 +3,7 @@ public class Fibonacci {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int n=7,x=0,y=0,z=1;
+int n=8,x=0,y=0,z=1;
 for(int l=0;l<n;l++)
 {
 	
